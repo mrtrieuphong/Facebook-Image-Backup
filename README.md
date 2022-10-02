@@ -66,7 +66,8 @@
 Facekup is application for download all user's image.
 You can also learn how to design your application with Python and PyQt5 here.
 
-[![Product Name Screen Shot][product-screenshot]](nguyentrieuphong.com)
+[![Product Name Screen Shot][splash-screenshot]](https://nguyentrieuphong.com)
+[![Product Name Screen Shot][login-screenshot]](https://nguyentrieuphong.com)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -154,4 +155,5 @@ Project Link: [https://github.com/PhongCode/Facebook-image-backup](https://githu
 [license-url]: https://github.com/PhongCode/Facebook-image-backup/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/nguyen-trieu-phong-5498b3217/
-[product-screenshot]: static/splash-screenshot.png
+[splash-screenshot]: static/splash-screenshot.png
+[splash-screenshot]: static/login-screenshot.png
