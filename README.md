@@ -1,12 +1,13 @@
-<div id="top"></div>
+<div id="top" ></div>
 
+<div align="center">
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-
+</div>
 
 <!-- PROJECT LOGO -->
 <br />
@@ -15,7 +16,8 @@
     <img src="logo.ico" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Facekup - Facebook Images Backup</h3>
+  <h3 align="center">Facekup</h3>
+  <h4 align="center">Facebook Images Backup</h4>
 
   <p align="center">
     Python application for download all user's image.
