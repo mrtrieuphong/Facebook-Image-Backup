@@ -95,7 +95,6 @@ _Below is an tutorial for installing and setting up this app. If you wanna use t
    ```sh
    python app.py
    ```
-
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
@@ -103,7 +102,7 @@ _Below is an tutorial for installing and setting up this app. If you wanna use t
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Create Splash screen
+- [x] Create splash screen
 - [x] Create log in screen
 - [x] Log in with facebook cookies
 - [x] Get facebook account's name
