@@ -12,7 +12,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/PhongCode/Facebook-image-backup">
-    <img src="icon.ico" alt="Logo" width="80" height="80">
+    <img src="logo.ico" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Facekup - Facebook Images Backup</h3>
