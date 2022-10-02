@@ -156,4 +156,4 @@ Project Link: [https://github.com/PhongCode/Facebook-image-backup](https://githu
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/nguyen-trieu-phong-5498b3217/
 [splash-screenshot]: static/splash-screenshot.png
-[splash-screenshot]: static/login-screenshot.png
+[login-screenshot]: static/login-screenshot.png
