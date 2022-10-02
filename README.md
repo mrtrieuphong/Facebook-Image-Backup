@@ -63,8 +63,8 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-Facekup is application for download all user's image.
-You can also learn how to design your application with Python and PyQt5 here.
+Facekup is a Python application for download all user's image. This application aims to provide cookie log in method without two factor authentication. Download it and enjoy with your memories!
+
 
 [![Product Name Screen Shot][splash-screenshot]](https://nguyentrieuphong.com)
 [![Product Name Screen Shot][log-in-screenshot]](https://nguyentrieuphong.com)
