@@ -65,9 +65,8 @@
 ## About The Project
 Facekup is a Python application for download all user's image. This application aims to provide cookie log in method without two factor authentication. Download it and enjoy with your memories!
 
-
-[![Product Name Screen Shot][splash-screenshot]](https://nguyentrieuphong.com)
 # Watch officical [demo video](https://youtu.be/QAh0iNqPw0Q) on my youtube channel!
+[![Product Name Screen Shot][splash-screenshot]](https://nguyentrieuphong.com)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
