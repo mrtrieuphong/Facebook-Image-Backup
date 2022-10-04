@@ -67,7 +67,7 @@ Facekup is a Python application for download all user's image. This application 
 
 
 [![Product Name Screen Shot][splash-screenshot]](https://nguyentrieuphong.com)
-[![Product Name Screen Shot][log-in-screenshot]](https://nguyentrieuphong.com)
+# Watch officical [demo video](https://youtu.be/QAh0iNqPw0Q) on my youtube channel!
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -82,8 +82,7 @@ Facekup is a Python application for download all user's image. This application 
 
 ### Installation
 
-_Below is an tutorial for installing and setting up this app. If you wanna use this one without caring about the source code, please clone and run "Image2ASCII.exe" instead._
-
+_Below is an tutorial for installing and setting up this app.
 1. Clone the repo
    ```sh
    git clone https://github.com/PhongCode/Facebook-image-backup.git
@@ -156,4 +155,3 @@ Project Link: [https://github.com/PhongCode/Facebook-image-backup](https://githu
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/nguyen-trieu-phong-5498b3217/
 [splash-screenshot]: static/splash-screenshot.png
-[log-in-screenshot]: static/log-in-screenshot.png
