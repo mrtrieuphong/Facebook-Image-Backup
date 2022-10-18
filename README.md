@@ -141,15 +141,15 @@ Project Link: [https://github.com/PhongCode/Facebook-image-backup](https://githu
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/PhongCode/Image2ASCII.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/PhongCode/Facebook-image-backup.svg?style=for-the-badge
 [contributors-url]: https://github.com/PhongCode/Facebook-image-backup/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/PhongCode/Image2ASCII.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/PhongCode/Facebook-image-backup.svg?style=for-the-badge
 [forks-url]: https://github.com/PhongCode/Facebook-image-backup/network/members
-[stars-shield]: https://img.shields.io/github/stars/PhongCode/Image2ASCII.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/PhongCode/Facebook-image-backup.svg?style=for-the-badge
 [stars-url]: https://github.com/PhongCode/Facebook-image-backup/stargazers
-[issues-shield]: https://img.shields.io/github/issues/PhongCode/Image2ASCII.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/PhongCode/Facebook-image-backup.svg?style=for-the-badge
 [issues-url]: https://github.com/PhongCode/Facebook-image-backup/issues
-[license-shield]: https://img.shields.io/github/license/PhongCode/Image2ASCII.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/PhongCode/Facebook-image-backup.svg?style=for-the-badge
 [license-url]: https://github.com/PhongCode/Facebook-image-backup/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/nguyen-trieu-phong-5498b3217/
